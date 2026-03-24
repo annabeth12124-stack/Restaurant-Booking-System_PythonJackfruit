@@ -76,4 +76,3 @@ python jackfruit_problem_session.py
 ## Contributors
 
 * Sakshi Ghodke
-* (Add your partner’s name here)
